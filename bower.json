@@ -1,0 +1,10 @@
+{
+  "name": "vnext-theme-admin-connector",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "~1.4.5"
+  },
+  "main": [
+    "dist/vnextThemeAdminConnector.js"
+  ]
+}
