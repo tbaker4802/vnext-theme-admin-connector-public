@@ -1,6 +1,6 @@
 {
   "name": "vnext-theme-admin-connector",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
     "angular": "~1.4.5"
   },
